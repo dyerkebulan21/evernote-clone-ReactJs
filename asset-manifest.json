@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evernote-clone-ReactJs/static/css/main.60d5545d.chunk.css",
+    "main.js": "/evernote-clone-ReactJs/static/js/main.0ec8372e.chunk.js",
+    "main.js.map": "/evernote-clone-ReactJs/static/js/main.0ec8372e.chunk.js.map",
+    "runtime-main.js": "/evernote-clone-ReactJs/static/js/runtime-main.6d6ee7a6.js",
+    "runtime-main.js.map": "/evernote-clone-ReactJs/static/js/runtime-main.6d6ee7a6.js.map",
+    "static/js/2.adcaedd0.chunk.js": "/evernote-clone-ReactJs/static/js/2.adcaedd0.chunk.js",
+    "static/js/2.adcaedd0.chunk.js.map": "/evernote-clone-ReactJs/static/js/2.adcaedd0.chunk.js.map",
+    "index.html": "/evernote-clone-ReactJs/index.html",
+    "precache-manifest.19e8e58c91a65d7448c5aa34ae680c34.js": "/evernote-clone-ReactJs/precache-manifest.19e8e58c91a65d7448c5aa34ae680c34.js",
+    "service-worker.js": "/evernote-clone-ReactJs/service-worker.js",
+    "static/css/main.60d5545d.chunk.css.map": "/evernote-clone-ReactJs/static/css/main.60d5545d.chunk.css.map",
+    "static/js/2.adcaedd0.chunk.js.LICENSE": "/evernote-clone-ReactJs/static/js/2.adcaedd0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6ee7a6.js",
+    "static/js/2.adcaedd0.chunk.js",
+    "static/css/main.60d5545d.chunk.css",
+    "static/js/main.0ec8372e.chunk.js"
+  ]
+}
